@@ -28,7 +28,7 @@ export default function CTA() {
               to scale your business!
             </p>
             <a
-              href="https://forms.gle/b42SwkWP7vzm2AFL8"
+              href="https://linktr.ee/webfinity.id"
               className="block py-2 px-4 text-white font-medium bg-indigo-600 duration-150 hover:bg-indigo-500 active:bg-indigo-700 rounded-lg shadow-lg hover:shadow-none"
             >
               Yes I want my sales funnel! Book my FREE UI/UX design consultation
