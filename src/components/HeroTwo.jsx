@@ -43,7 +43,7 @@ export default function HeroTwo() {
                 Our consultants will build a sales funnel custom to your niche!
               </p>
               <a
-                href="https://forms.gle/J1ZSQixVxPUfuo6d8"
+                href="https://linktr.ee/webfinity.id"
                 className="inline-flex gap-x-1 items-center text-indigo-600 hover:text-indigo-500 duration-150 font-medium"
               >
                 I'm listening
@@ -92,7 +92,7 @@ export default function HeroTwo() {
                 the most affordable in the industry!
               </p>
               <a
-                href="https://forms.gle/J1ZSQixVxPUfuo6d8"
+                href="https://linktr.ee/webfinity.id"
                 className="inline-flex gap-x-1 items-center text-indigo-600 hover:text-indigo-500 duration-150 font-medium"
               >
                 I'm listening
@@ -137,7 +137,7 @@ export default function HeroTwo() {
                 absolute finish!
               </p>
               <a
-                href="https://forms.gle/J1ZSQixVxPUfuo6d8"
+                href="https://linktr.ee/webfinity.id"
                 className="inline-flex gap-x-1 items-center text-indigo-600 hover:text-indigo-500 duration-150 font-medium"
               >
                 I'm curious
@@ -182,7 +182,7 @@ export default function HeroTwo() {
                 maximum inbound conversion!
               </p>
               <a
-                href="https://forms.gle/J1ZSQixVxPUfuo6d8"
+                href="https://linktr.ee/webfinity.id"
                 className="inline-flex gap-x-1 items-center text-indigo-600 hover:text-indigo-500 duration-150 font-medium"
               >
                 I'm interested
@@ -229,7 +229,7 @@ export default function HeroTwo() {
                 We simplify the funnel building process to just 4 simple steps!
               </p>
               <a
-                href="https://forms.gle/J1ZSQixVxPUfuo6d8"
+                href="https://linktr.ee/webfinity.id"
                 className="inline-flex gap-x-1 items-center text-indigo-600 hover:text-indigo-500 duration-150 font-medium"
               >
                 I'm sold! I want my sales funnel now!
