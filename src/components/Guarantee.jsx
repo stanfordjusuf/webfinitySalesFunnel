@@ -19,7 +19,7 @@ export default function Guarantee() {
         </div>
         <div className="mt-4">
           <a
-            href="https://forms.gle/b42SwkWP7vzm2AFL8"
+            href="https://linktr.ee/webfinity.id"
             className="inline-block py-2 px-4 text-white font-medium bg-indigo-800 duration-150 hover:bg-indigo-700 active:bg-gray-900 rounded-lg shadow-md hover:shadow-none"
           >
             Let's do this!
